@@ -1,1 +1,3 @@
-olap init txt file
+olap init txt
+ccc
+cc
