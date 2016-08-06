@@ -1,3 +1,0 @@
-olap init txt
-ccc
-cc
