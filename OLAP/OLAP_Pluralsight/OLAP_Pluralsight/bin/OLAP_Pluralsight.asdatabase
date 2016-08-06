@@ -643,7 +643,7 @@
     </Dimension>
     <Dimension>
       <ID>Time 1</ID>
-      <Name>Time</Name>
+      <Name>Time2</Name>
       <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
       <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
       <Annotations>

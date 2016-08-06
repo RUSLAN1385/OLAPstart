@@ -20,8 +20,8 @@
       <FullPath>Date.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Time.dim</Name>
-      <FullPath>Time.dim</FullPath>
+      <Name>Time2.dim</Name>
+      <FullPath>Time2.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
